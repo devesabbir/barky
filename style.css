@@ -121,15 +121,15 @@ h6 {
 
 .slider-row .top-header .form-div .forms form select {
     border: none;
-    background: transparent;
+    background: #0000;
     outline: none;
-    color: #fff;
+    color: #eee;
     font-size: 17px;
     font-weight: 500;
     padding: 0px 11px;
 }
 
-.slider-row .top-header .form-div .forms form select option {}
+.slider-row .top-header .form-div .forms form select option {background: black;}
 
 .slider-row .top-header .social {
     width: 30%;
